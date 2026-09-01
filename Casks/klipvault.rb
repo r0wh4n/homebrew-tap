@@ -7,7 +7,7 @@ cask "klipvault" do
   desc "Encrypted clipboard manager for the menu bar"
   homepage "https://github.com/r0wh4n/Klipvault"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Klipvault.app"
 
