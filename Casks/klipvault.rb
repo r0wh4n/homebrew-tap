@@ -1,6 +1,6 @@
 cask "klipvault" do
-  version "1.0.0"
-  sha256 "e734d0f9a6ef8b38e8332182502cd7bd6d08790d4631dd2aaafa766d80c92c2d"
+  version "1.1.0"
+  sha256 "b8fcf9d51f245296f732dc1f0e96e2610be992bdae69c4fecf7a92ec9c546836"
 
   url "https://github.com/r0wh4n/Klipvault/releases/download/v#{version}/Klipvault-#{version}.zip"
   name "Klipvault"
